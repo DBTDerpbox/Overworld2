@@ -8,6 +8,10 @@ Adds a second overworld to Minecraft: Java Edition
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
+### Installation
+
+* Downloads are available at the [Releases Page](https://github.com/DBTDerpbox/Overworld2/releases)
+
 ### Usage
 
 * To switch overworlds, type `/trigger SwitchOverworld`
