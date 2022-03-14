@@ -1,6 +1,6 @@
 {
     "display": {
-        "title": "Overworld 2",
+        "title": "Overworld 2 V1.0",
         "description": ["","A second overworld.","\n","\n",{"text":"Switch overworlds by typing ","color":"gold"},{"text":"/trigger SwitchOverworld","color":"yellow"},{"text":".","color":"gold"}],
         "icon": {
             "item": "grass_block"
