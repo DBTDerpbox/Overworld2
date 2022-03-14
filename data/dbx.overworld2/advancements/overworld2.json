@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Overworld 2",
+        "description": ["","A second overworld.","\n","\n",{"text":"Switch overworlds by typing ","color":"gold"},{"text":"/trigger SwitchOverworld","color":"yellow"},{"text":".","color":"gold"}],
+        "icon": {
+            "item": "grass_block"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
